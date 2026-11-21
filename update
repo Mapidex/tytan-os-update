@@ -1,5 +1,22 @@
+!info for update module!
+Num_tags:"
+tytan_update=offical
+gui_update=gui
+Foxo_os=other
+other=unoficcal_veryfited
+"
+!update_lvl!
+0-must
+1-hight
+2-normal
+
+
+
 {
-  Num_tag:(update)
+  Date:20.11.2026
+  Num_tag:(tytan_update)
   Name:(test)
   link_update:()
+  update_lvl:1
 }
+
